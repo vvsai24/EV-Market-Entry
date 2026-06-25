@@ -2,6 +2,15 @@
 
 A self-initiated case study evaluating market entry options for a new electric two-wheeler OEM in India. Built over the summer using publicly available data from SIAM, the Vahan Dashboard, company annual reports, and industry publications.
 
+## Repo structure
+
+- `README.md` — case study writeup (this file)
+- `data/` — source CSVs (`market_data_fy24`, `unit_economics_bom`, `scenarios`) and `sources.md`
+- `notebooks/01_market_sizing.ipynb` — TAM / SAM / SOM build with sensitivity table
+- `notebooks/02_unit_economics.ipynb` — three-scenario break-even model
+- `models/unit_economics.xlsx` — Excel version of the financial model
+- `charts/` — `ev_market_growth.png`, `break_even_scenarios.png`
+
 ## Context
 
 India sold roughly 18 million two-wheelers in FY24. Of that, about 5.6% were electric. EV penetration crossed one million units for the first time in FY24, driven by FAME-II incentives, falling battery costs, and state-level subsidies. The market is still structurally young: three players (Ola Electric, TVS, Bajaj Chetak) command over 70% of monthly registrations, and supply chain economics for new entrants remain unproven.

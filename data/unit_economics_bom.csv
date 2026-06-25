@@ -1,0 +1,8 @@
+Component,Cost (Rs),Share of BOM
+Battery cell and pack,24800,40%
+Motor and controller,11160,18%
+Chassis and frame,13640,22%
+Wiring and electronics,5580,9%
+Display and connectivity,3720,6%
+Other,3100,5%
+Total BOM,62000,100%

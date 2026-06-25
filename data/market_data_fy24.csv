@@ -1,0 +1,13 @@
+Metric,Value,Unit,Source
+Total 2W sales FY24,17974000,units,SIAM
+EV 2W sales FY24,1011000,units,Vahan
+EV share FY24,5.6,percent,Calc
+Average EV 2W price,100000,Rs,Industry avg
+Urban share of EV sales,78,percent,Vahan
+Top 3 OEM combined share,72,percent,Vahan
+Ola Electric share,33,percent,Vahan FY24
+TVS share,21,percent,Vahan FY24
+Bajaj share,12,percent,Vahan FY24
+Ather share,9,percent,Vahan FY24
+Assumed EV share FY27,18,percent,Industry consensus
+Assumed 2W market CAGR,3,percent,Self

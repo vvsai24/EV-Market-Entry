@@ -1,0 +1,4 @@
+Scenario,Upfront Price (Rs),Subscription (Rs/mo),BOM (Rs),Dealer Margin %,Marketing+Overhead (Rs),Unit Margin / NPV (Rs),Break-even Units per Year,Break-even Year
+Premium (Ather-positioned),135000,0,62000,8,6500,19500,38000,4
+Mass-market (Ola-positioned),105000,0,62000,8,6500,8200,90000,5+
+Battery-swap leasing,65000,2000,40000,7,5500,14000,25000,3
